@@ -1,0 +1,14 @@
+{
+  "name": "discord.js-patch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "./typings/index.d.ts",
+  "scripts": {},
+  "author": "nowifi4u",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "require-tools": "^0.1.1"
+  }
+}
